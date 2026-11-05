@@ -12,3 +12,6 @@ En el ejercicio 2, Neurito aprende a saltar obstáculos en un juego hecho con Py
 ## Cómo ejecutarlo
     uv sync
     uv run saltar.py
+
+
+# Autor: Litherboar
